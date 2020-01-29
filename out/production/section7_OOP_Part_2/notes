@@ -1,0 +1,19 @@
+HAS A relationship
+
+computer has a motherboard, case and a monitor
+
+the motherboard, case and monitor are not computers in the same sense that a car is vehicle.
+but a computer has a motherboard, a case and a monitor - this is composition - modelling parts of the greater whole (computer)
+
+model it as HAS A relationship
+
+
+general rule is to use composition before inheritence
+
+
+encapsulation
+
+restricts access to certain components in objects creating - stop classes outside of inner workings of another class
+
+encapsulation allows to override so that we have more control, so we cant make mistakes in main.
+
