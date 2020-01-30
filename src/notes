@@ -17,3 +17,9 @@ restricts access to certain components in objects creating - stop classes outsid
 
 encapsulation allows to override so that we have more control, so we cant make mistakes in main.
 
+
+Polymorphism
+
+allows actions to act differently based on the actual object that the action is being performed on
+
+
